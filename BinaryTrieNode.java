@@ -1,5 +1,3 @@
-package part1;
-
 public class BinaryTrieNode 
 {	
 	private int data, bits;
