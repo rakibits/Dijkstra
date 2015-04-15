@@ -1,5 +1,3 @@
-package part1;
-
 public class FibHeapNode 
 {
 	private int degree, nodeNum;
