@@ -1,5 +1,3 @@
-package part1;
-
 import java.util.Stack;
 import java.util.regex.Pattern;
 
